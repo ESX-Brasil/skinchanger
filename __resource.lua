@@ -1,6 +1,6 @@
 description 'Skin Changer'
 
-version '1.0.2'
+version '1.0.3'
 
 client_scripts {
   'locale.lua',
